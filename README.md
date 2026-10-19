@@ -10,6 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-silvereadjassoho.vercel.app-0969DA?style=for-the-badge&logo=vercel&logoColor=white)](https://silvereadjassoho.vercel.app)
 [![Vision Aláfia](https://img.shields.io/badge/SaaS_Startup-Vision%20Aláfia-FF7700?style=for-the-badge&logo=googlecloud&logoColor=white)](https://visionalafia.online)
+[![MIT Certified](https://img.shields.io/badge/MIT_Learn-Universe_of_AI-A31F34?style=for-the-badge&logo=mit&logoColor=white)](https://learn.mit.edu/certificate/program/bce659c1-4ac5-422a-90c5-a05409935811)
 [![Google Play](https://img.shields.io/badge/Google_Play-Vision%20Aláfia%20App-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.visionalafia.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Silvère%20Adjassoho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silv%C3%A8re-adjassoho-6529b5336/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Discussion_Directe-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/22955616960)
@@ -21,7 +22,8 @@
 
 ### 👋 À propos de moi
 
-- 🚀 **Fondateur & Développeur actif** : Je conçois et déploie des écosystèmes SaaS et mobiles de bout en bout, de l'idéation produit à la mise en production sur le cloud et le Play Store.
+- 🚀 **4+ ans d'expérience professionnelle** : Ingénieur logiciel FullStack, mobile & IA, je conçois et déploie des écosystèmes SaaS et mobiles de bout en bout, de l'idéation produit à la mise en production sur le cloud et le Play Store.
+- 🎓 **Certifié MIT** : Diplômé du programme [Universe of AI (MIT Learn)](https://learn.mit.edu/certificate/program/bce659c1-4ac5-422a-90c5-a05409935811) du prestigieux *Massachusetts Institute of Technology*.
 - 💡 **Spécialité IA & Systèmes Intelligents** : Intégration avancée d'agents conversationnels (LLMs, Grok, OpenAI), d'analyse NLP, de clonage et synthèse vocale, ainsi que de modèles de reconnaissance appliqués aux langues locales africaines.
 - 🏆 **Innovation primée** : Concepteur de **Sagbo**, le premier assistant vocal intelligent en langue **Fongbé** récompensé avec la mention *Excellente*.
 - 📍 **Localisation** : Calavi, Bénin 🇧🇯 · *Disponible pour du conseil technique de haut niveau, des architectures SaaS et des collaborations innovantes.*
@@ -53,7 +55,7 @@
 
 | Métrique | Réalisation concrète |
 | :---: | :--- |
-| **3+ ans** | D'expertise en ingénierie logicielle FullStack, mobile & intégration IA |
+| **4+ ans** | D'expérience professionnelle en ingénierie logicielle FullStack, mobile & architectures IA |
 | **20+** | Projets, plateformes et applications déployés en production |
 | **1 Startup SaaS** | Fondée, développée et déployée sur le Play Store & le Web ([Vision Aláfia](https://visionalafia.online)) |
 | **🏆 Mention Excellente** | Distinction pour l'assistant vocal intelligent en Fongbé (*Sagbo*) |
@@ -122,6 +124,7 @@
 
 ### 🎓 Certifications Clés
 
+- 🏛️ **[Universe of AI — MIT Learn](https://learn.mit.edu/certificate/program/bce659c1-4ac5-422a-90c5-a05409935811)** · *Massachusetts Institute of Technology* ([Lien de vérification officiel](https://learn.mit.edu/certificate/program/bce659c1-4ac5-422a-90c5-a05409935811))
 - 📜 **ChatGPT for Product Management & Innovation** · *OpenAI / Product Management (2025)*
 - 📜 **Flutter Mobile Application Development** · *Google (2025)*
 - 📜 **Clonage de Voix & Synthèse Vocale avec IA** · *Intelligence Artificielle (2025)*
