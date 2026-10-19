@@ -4,7 +4,7 @@
 
 **Founder & Lead Architect, [Vision Aláfia](https://visionalafia.online) · FullStack & AI Engineer · Mobile Developer**
 
-*« Bâtir des architectures numériques scalables et des solutions d'intelligence artificielle à fort impact pour l'Afrique et le monde. »*
+*« Software Engineer & Founder · Je construis des solutions concrètes alliant IA, mobile et web. »*
 
 <br/>
 
@@ -22,32 +22,32 @@
 
 ### 👋 À propos de moi
 
-- 🚀 **4+ ans d'expérience professionnelle** : Ingénieur logiciel FullStack, mobile & IA, je conçois et déploie des écosystèmes SaaS et mobiles de bout en bout, de l'idéation produit à la mise en production sur le cloud et le Play Store.
-- 🎓 **Certifié MIT** : Diplômé du programme [Universe of AI (MIT Learn)](https://learn.mit.edu/certificate/program/bce659c1-4ac5-422a-90c5-a05409935811) du prestigieux *Massachusetts Institute of Technology*.
-- 💡 **Spécialité IA & Systèmes Intelligents** : Intégration avancée d'agents conversationnels (LLMs, Grok, OpenAI), d'analyse NLP, de clonage et synthèse vocale, ainsi que de modèles de reconnaissance appliqués aux langues locales africaines.
-- 🏆 **Innovation primée** : Concepteur de **Sagbo**, le premier assistant vocal intelligent en langue **Fongbé** récompensé avec la mention *Excellente*.
-- 📍 **Localisation** : Calavi, Bénin 🇧🇯 · *Disponible pour du conseil technique de haut niveau, des architectures SaaS et des collaborations innovantes.*
+- 🏢 Je développe et dirige **Vision Aláfia**, une startup SaaS dédiée à l'emploi et au recrutement propulsée par l'IA, et je continue d'écrire du code tous les jours.
+- 🛠️ Développeur **FullStack & Mobile** avec 4+ ans d'expérience (Flutter, Next.js, Firebase, Node.js) et un focus fort sur les **agents IA et les LLMs**.
+- 🏆 Concepteur de **Sagbo**, un assistant vocal en langue **Fongbé** primé avec mention *Excellente*.
+- 🎓 Certifié **[Universe of AI](https://learn.mit.edu/certificate/program/bce659c1-4ac5-422a-90c5-a05409935811)** au **MIT Learn**.
+- 🌍 Basé à **Calavi, Bénin** 🇧🇯
 
 ---
 
-### ⭐ En vedette : Vision Aláfia (Startup SaaS)
+### 🚀 En vedette : Vision Aláfia
 
 <div align="center">
   <a href="https://visionalafia.online">
-    <img src="https://img.shields.io/badge/Plateforme_Officielle-visionalafia.online-FF7700?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Vision Alafia Web" />
+    <img src="https://img.shields.io/badge/Site_Web-visionalafia.online-FF7700?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Vision Alafia Web" />
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.visionalafia.app">
-    <img src="https://img.shields.io/badge/Disponible_sur-Google_Play_Store-00C3FF?style=for-the-badge&logo=googleplay&logoColor=white" alt="Vision Alafia Play Store" />
+    <img src="https://img.shields.io/badge/Google_Play-Télécharger_l'App-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Vision Alafia Play Store" />
   </a>
 </div>
 
 <br/>
 
-> **[Vision Aláfia](https://visionalafia.online)** est un écosystème technologique complet propulsé par l'IA, pensé pour transformer l'employabilité des jeunes et moderniser les processus de recrutement au Bénin et en Afrique de l'Ouest.
->
-> - 📱 **Application Mobile Android & SaaS Web** : Plateforme interactive de matching intelligent entre candidats et recruteurs selon les compétences et l'expérience.
-> - 🤖 **Agent IA Conversationnel WhatsApp** : Assistant intelligent (propulsé par Grok / NLP) capable d'analyser les profils, de délivrer les offres hautement compatibles avec score prédictif et de générer un **CV professionnel personnalisé en PDF directement dans WhatsApp en moins de 30 secondes**.
-> - ⚙️ **Stack** : Flutter · Android · Firebase · Grok / LLM · Next.js · Node.js · WhatsApp Cloud API.
+**Vision Aláfia** est la plateforme SaaS que j'ai créée pour répondre à un défi concret : aider les jeunes à s'insérer sur le marché du travail et permettre aux recruteurs de trouver les bons profils plus rapidement.
+
+- 📲 **Sur le Play Store & le Web** : Une app mobile (Flutter) et un portail web où candidats et recruteurs sont mis en relation selon leurs compétences réelles et leur localisation.
+- 💬 **Recrutement direct par WhatsApp** : Un agent conversationnel IA (Grok) qui converse avec le candidat, évalue son affinité avec les offres du jour et lui livre son **CV adapté en PDF en moins de 30 secondes**.
+- 🛠️ **Stack** : Flutter · Next.js · Firebase · Grok (LLM) · WhatsApp Cloud API
 
 ---
 
@@ -55,19 +55,19 @@
 
 | Métrique | Réalisation concrète |
 | :---: | :--- |
-| **4+ ans** | D'expérience professionnelle en ingénierie logicielle FullStack, mobile & architectures IA |
-| **20+** | Projets, plateformes et applications déployés en production |
-| **1 Startup SaaS** | Fondée, développée et déployée sur le Play Store & le Web ([Vision Aláfia](https://visionalafia.online)) |
-| **🏆 Mention Excellente** | Distinction pour l'assistant vocal intelligent en Fongbé (*Sagbo*) |
-| **500+ enfants** | Impactés via la plateforme caritative déployée ([Jeunesse Généreuse](https://jeunesse-genereuse01.vercel.app/)) |
+| **4+ ans** | De pratique en développement Web, Mobile & architectures IA |
+| **20+** | Projets et plateformes déployés en production |
+| **1 Startup SaaS** | Fondée et publiée sur le Play Store & le Web ([Vision Aláfia](https://visionalafia.online)) |
+| **🏆 Mention Excellente** | Récompense pour l'assistant vocal en langue Fongbé (*Sagbo*) |
+| **500+ enfants** | Kits scolaires financés via la plateforme solidaire [Jeunesse Généreuse](https://jeunesse-genereuse01.vercel.app/) |
 
 ---
 
 ### 🚀 Projets Sélectionnés & Réalisations Phares
 
-| Projet | Description | Mon Rôle | Stack Technique | Accès |
+| Projet | Ce que c'est | Mon Rôle | Stack Technique | Accès |
 | :--- | :--- | :--- | :--- | :---: |
-| **[Vision Aláfia](https://visionalafia.online)** | SaaS & écosystème IA pour l'emploi des jeunes et le recrutement en Afrique | Fondateur & Lead Architect · Mobile, Web & IA | Flutter · Android · Firebase · Grok · Next.js | [Web](https://visionalafia.online) · [Play Store](https://play.google.com/store/apps/details?id=com.visionalafia.app) |
+| **[Vision Aláfia](https://visionalafia.online)** | Plateforme SaaS & IA pour l'emploi et le recrutement | Fondateur & Lead Architect | Flutter · Android · Firebase · Grok · Next.js | [Web](https://visionalafia.online) · [Play Store](https://play.google.com/store/apps/details?id=com.visionalafia.app) |
 | **Sagbo** | Assistant vocal intelligent IA en langue **Fongbé** (Innovation primée) | Idée, Modèle vocal, Traitement NLP & Mobile | Flutter · IA · Speech-to-Text · NLP | 🏆 *Mention Excellente* |
 | **[Securitel v2](https://securitel-v2.vercel.app)** | Plateforme de traçabilité et sécurisation des téléphones contre le vol au Bénin | Conception & Développement FullStack | Next.js · TypeScript · FedaPay · Tailwind CSS | [Démo](https://securitel-v2.vercel.app) |
 | **Assistant Tchee** | Plateforme mobile géolocalisée de mise en relation directe avec les artisans locaux | Architecture mobile, Chat & Géolocalisation | Flutter · Firebase · Realtime Chat · GeoPoints | [Code](https://github.com/adjassoho) |
@@ -150,7 +150,7 @@
 
 ### 📬 Travaillons Ensemble
 
-Vous avez une idée de produit, un défi d'intégration IA, ou un projet SaaS à concrétiser ? Discutons-en !
+Envie d'échanger sur un projet, une collaboration ou un défi technique ? Discutons-en directement !
 
 <div align="center">
 
